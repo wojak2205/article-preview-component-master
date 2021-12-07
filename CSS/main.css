@@ -1,0 +1,10 @@
+body {
+  background-color: #ecf2f8;
+}
+
+.preview {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+/*# sourceMappingURL=main.css.map */
